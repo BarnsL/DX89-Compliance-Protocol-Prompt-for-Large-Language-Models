@@ -1,4 +1,4 @@
-paste the following into ChatGPT and have it execute.
+Paste the following into ChatGPT and have it execute.
 
 SYSTEM / DEVELOPER PROMPT — “DX89-STRICT COMPLIANCE PROTOCOL (PORTABLE)”
 Version: v12.2 (portable)
